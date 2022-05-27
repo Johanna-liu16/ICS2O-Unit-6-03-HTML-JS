@@ -1,0 +1,19 @@
+/* Created by: Johanna Liu
+ * Created on: Feb 2022
+ * This CSS file defines the style for index.html ICS2O-Unit1-04-HTML-CSS
+*/
+
+body {
+  background-color: azure;
+}
+
+h1 {
+  background-color: rgb(153 255 221);
+  color: hsl(0deg 0% 0%);
+  padding: 40px;
+  text-align: center;
+}
+
+p {
+  background-color: #e0ffff;
+}
